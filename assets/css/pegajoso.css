@@ -1,0 +1,9 @@
+/*Menu fijo*/
+.menu-fixed
+{
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  width: 100%;
+  max-width: 2000px;
+}
